@@ -1,0 +1,6 @@
+<application>
+  <component name="KotlinRefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+  </component>
+</application>

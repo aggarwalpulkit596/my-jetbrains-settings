@@ -1,0 +1,26 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="192.7142.36.36.6308749" />
+      <item value="cmdline-tools;latest#5.0" />
+      <item value="emulator#30.8.4" />
+      <item value="platform-tools#31.0.3" />
+      <item value="system-images;android-29;google_apis;x86#12" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-203.7717.56.2031.7678000" />
+    <option name="LAST_TIME_CHECKED" value="1634138063621" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="beta" />
+  </component>
+</application>
