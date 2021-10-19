@@ -1,5 +1,5 @@
 <application>
   <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.0.124:5555&quot;,&quot;serialNumber&quot;:&quot;5a786dce&quot;,&quot;name&quot;:&quot;OnePlus HD1901&quot;,&quot;address&quot;:&quot;192.168.0.124&quot;,&quot;androidVersion&quot;:&quot;11&quot;,&quot;apiLevel&quot;:&quot;30&quot;}]" />
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.0.124:5555&quot;,&quot;serialNumber&quot;:&quot;5a786dce&quot;,&quot;name&quot;:&quot;OnePlus HD1901&quot;,&quot;address&quot;:&quot;192.168.0.124&quot;,&quot;androidVersion&quot;:&quot;11&quot;,&quot;apiLevel&quot;:&quot;30&quot;},{&quot;id&quot;:&quot;192.168.0.124:5555&quot;,&quot;serialNumber&quot;:&quot;&quot;,&quot;name&quot;:&quot; &quot;,&quot;address&quot;:&quot;192.168.0.124&quot;,&quot;androidVersion&quot;:&quot;&quot;,&quot;apiLevel&quot;:&quot;&quot;}]" />
   </component>
 </application>
