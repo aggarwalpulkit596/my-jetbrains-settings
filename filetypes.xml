@@ -9,6 +9,7 @@
       <mapping ext="proto" type="Native" />
       <mapping pattern="mymapstyle" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="proto" approved="true" type="protobuf" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
