@@ -68,10 +68,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="pulkit596" />
+          <option name="userName" value="aggarwalpulkit5961" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Greenbacks-Tech/Slash-Android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/randomly/unlo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
