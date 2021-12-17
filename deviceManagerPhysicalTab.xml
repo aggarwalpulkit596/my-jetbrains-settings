@@ -8,7 +8,17 @@
             <value value="5a786dce" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-12-09T07:42:44.046245Z" />
+        <name value="OnePlus HD1901" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-5a786dce-hJ4no1._adb-tls-connect._tcp." />
+          </Key>
+        </key>
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
         <api value="30" />
