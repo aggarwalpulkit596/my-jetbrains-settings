@@ -8,6 +8,7 @@
             <value value="5a786dce" />
           </Key>
         </key>
+        <lastOnlineTime value="2021-12-17T19:35:28.137276Z" />
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -19,7 +20,7 @@
             <value value="adb-5a786dce-hJ4no1._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2021-12-17T17:10:29.978297Z" />
+        <lastOnlineTime value="2021-12-17T19:34:52.550331Z" />
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
         <api value="30" />
