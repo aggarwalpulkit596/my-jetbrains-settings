@@ -4,10 +4,11 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5a786dce" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-5a786dce-hJ4no1._adb-tls-connect._tcp." />
           </Key>
         </key>
+        <lastOnlineTime value="2022-01-17T03:37:15.871134Z" />
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -15,11 +16,10 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-5a786dce-hJ4no1._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="5a786dce" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-12-17T19:34:52.550331Z" />
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
         <api value="30" />
