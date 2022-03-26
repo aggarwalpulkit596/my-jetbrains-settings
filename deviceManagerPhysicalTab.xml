@@ -8,10 +8,9 @@
             <value value="adb-5a786dce-hJ4no1._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-17T03:37:15.871134Z" />
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -22,7 +21,18 @@
         </key>
         <name value="OnePlus HD1901" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2d80c4c7" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 7S" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
