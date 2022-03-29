@@ -2,10 +2,12 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Success : " />
+        <option value="package:mine" />
+        <option value="package:mine " />
         <option value="package:mine 1006" />
         <option value="package:mine billdesk" />
         <option value="package:mine Dream" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
