@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Current" />
         <option value="package:mine " />
         <option value="package:mine refresh=Loading" />
         <option value="package:mine Adapter " />
