@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine Adapter curre" />
         <option value="package:mine Updated List" />
         <option value="package:mine Timber" />
@@ -13,7 +14,6 @@
         <option value="package:mine Adapter " />
         <option value="package:mine Adapter Item Count" />
         <option value="package:mine Success : " />
-        <option value="package:mine" />
         <option value="package:mine 1006" />
         <option value="package:mine billdesk" />
         <option value="package:mine Dream" />
