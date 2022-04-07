@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Scanned" />
         <option value="package:mine " />
+        <option value="package:mine Scanned" />
         <option value="package:mine Scann" />
         <option value="package:mine" />
         <option value="package:mine Adapter curre" />
