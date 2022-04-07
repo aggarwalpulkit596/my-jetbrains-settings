@@ -2,12 +2,14 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Scanned" />
+        <option value="package:mine " />
+        <option value="package:mine Scann" />
         <option value="package:mine" />
         <option value="package:mine Adapter curre" />
         <option value="package:mine Updated List" />
         <option value="package:mine Timber" />
         <option value="package:mine Current" />
-        <option value="package:mine " />
         <option value="package:mine search" />
         <option value="Search Result" />
         <option value="package:mine refresh=Loading" />
