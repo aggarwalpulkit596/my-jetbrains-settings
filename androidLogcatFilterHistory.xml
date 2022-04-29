@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine MC3" />
         <option value="package:mine 39" />
         <option value="package:mine " />
@@ -14,7 +15,6 @@
         <option value="package:mine clevertap" />
         <option value="package:mine Scanned" />
         <option value="package:mine Scann" />
-        <option value="package:mine" />
         <option value="package:mine Adapter curre" />
         <option value="package:mine Updated List" />
         <option value="package:mine Timber" />
