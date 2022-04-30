@@ -2,6 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine Transaction Successfu" />
+        <option value="package:mine USDK" />
         <option value="package:mine revoked" />
         <option value="package:mine 252" />
         <option value="package:mine MA8" />
@@ -10,7 +13,6 @@
         <option value="package:mine 1830" />
         <option value="package:mine" />
         <option value="package:mine mb1" />
-        <option value="package:mine " />
         <option value="package:mine Rm8" />
         <option value="package:mine MC3" />
         <option value="package:mine 39" />
@@ -20,8 +22,6 @@
         <option value="package:mine This is the slash" />
         <option value="package:mine CleverTap Id : " />
         <option value="package:mine clevertap" />
-        <option value="package:mine Scanned" />
-        <option value="package:mine Scann" />
       </list>
     </option>
   </component>
