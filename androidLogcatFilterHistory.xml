@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine settl" />
         <option value="package:mine Success" />
-        <option value="package:mine " />
         <option value="package:mine Transaction Successfu" />
         <option value="package:mine USDK" />
         <option value="package:mine revoked" />
