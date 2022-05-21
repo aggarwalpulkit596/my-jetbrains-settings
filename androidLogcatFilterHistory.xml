@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine this is da" />
         <option value="package:mine " />
         <option value="package:mine token" />
         <option value="package:mine Th" />
@@ -21,7 +22,6 @@
         <option value="package:mine mb1" />
         <option value="package:mine Rm8" />
         <option value="package:mine MC3" />
-        <option value="package:mine 39" />
       </list>
     </option>
   </component>
