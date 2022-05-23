@@ -3,11 +3,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine This is the token" />
+        <option value="package:mine this is" />
         <option value="package:mine f" />
         <option value="package:mine this is da" />
         <option value="package:mine token" />
         <option value="package:mine Th" />
-        <option value="package:mine This is the token" />
         <option value="package:mine USDK" />
         <option value="package:mine U03" />
         <option value="package:mine settl" />
@@ -21,7 +22,6 @@
         <option value="package:mine 1830" />
         <option value="package:mine" />
         <option value="package:mine mb1" />
-        <option value="package:mine Rm8" />
       </list>
     </option>
   </component>
