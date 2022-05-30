@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine This is the token" />
         <option value="package:mine this is" />
         <option value="package:mine f" />
