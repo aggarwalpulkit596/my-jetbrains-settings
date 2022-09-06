@@ -8,6 +8,7 @@
       <mapping ext="proto" type="Native" />
       <mapping pattern="mymapstyle" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="entitlements" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="proto" approved="true" type="protobuf" />
