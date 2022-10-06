@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/differentangel42/Datsme-3.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Greenbacks-Tech/quickie.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Slash" />
